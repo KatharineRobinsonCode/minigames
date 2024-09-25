@@ -1,0 +1,23 @@
+.grid {
+    display: flex;
+    width: 612px;
+    height: 612px;
+    flex-wrap: wrap;
+    background-color: white;
+}
+
+.square {
+    height: 200px;
+    width: 200px;
+    border: solid red 2px;
+}
+
+.mole {
+    background-image: url('/Users/katharinerobinson/Documents/byedemon.jpg');
+    background-size: cover;
+}
+.controls {
+    margin: 20px 5px;
+    text-align: center;
+  }
+  
